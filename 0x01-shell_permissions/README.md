@@ -4,3 +4,4 @@
 # 3- change the ower to betty
 # 4- creat a empty file named hello
 # 5- add permission for excute
+# 6- script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
