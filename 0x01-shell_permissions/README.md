@@ -3,3 +3,4 @@
 # 2- print all the groups of the user
 # 3- change the ower to betty
 # 4- creat a empty file named hello
+# 5- add permission for excute
